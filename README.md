@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @birirv
-- 👀 I’m interested in javascript 
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on a javascript project
+- 👀 I’m learning Data Science 
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on a Data Science/Analytics project
 - 📫 How to reach me birirv@gmail.com
 
 <!---
