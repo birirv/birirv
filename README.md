@@ -2,9 +2,10 @@
 
 > "I believe data is only as good as the questions we ask it."
 
-I am a **Data Analyst** dedicated to transforming complex datasets into clear, actionable narratives. I specialize in building robust data pipelines with **SQL** and **Python**, and crafting intuitive, high-impact visualizations in **Power BI**.  
-
-My approach isn't just about cleaning rows and columns; it’s about uncovering the *why* behind the numbers to drive better decision-making.
+**Data Analyst & Actuarial Professional** with a foundation in healthcare insurance and risk analytics.
+I build end-to-end data pipelines with SQL and Python — extracting, transforming, and modelling data that drives real decisions in underwriting, claims, and scheme pricing. I then bring those insights to life through Power BI dashboards built for people who need clarity, not complexity.
+My work sits at the intersection of actuarial thinking and modern data engineering — whether that's analysing medical claims trends, supporting renewal pricing, or exploring Kenya's food security and energy patterns through personal projects.
+The numbers tell a story. I make sure the right people can read it.
 
 ---
 
